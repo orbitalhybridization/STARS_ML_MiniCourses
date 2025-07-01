@@ -1,4 +1,4 @@
-# STARS_ML_MiniCourses
+# STARS ML MiniCourses
 
 ## MC1
 

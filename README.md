@@ -4,8 +4,10 @@
 
 Thinking about data, reading and manipulating data frames, statistics and visualization
 
-## Mini-Course 2 (mc2.ipynb) - Linear Regression
+## Mini-Course 2 (mc2.ipynb) - Machine Learning I
 
-Linear regression.
+Fundamental ML Concepts, ML Pipelines, Regression
 
-## Mini-Course 3 - TBD
+## Mini-Course 3 (mc3.ipynb) - Machine Learning II
+
+Clustering, Dimensionality Reduction, and Model Evaluation
